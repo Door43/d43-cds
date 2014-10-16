@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cds:home|Door43 (cds)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cds|d43-cds repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cds/archive/master.zip|d43-cds.zip]]
+
+**Recent Changes**
+{{changes>ns = cds}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cds|Ethnologue data]]
+
